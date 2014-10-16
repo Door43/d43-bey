@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bey:home|Door43 (bey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bey|d43-bey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bey/archive/master.zip|d43-bey.zip]]
+
+**Recent Changes**
+{{changes>ns = bey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bey|Ethnologue data]]
+
